@@ -4,7 +4,7 @@
 The purpose of this assignment is to build a text editor that runs in the browser. It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline. It also uses a package called `idb`, which is a lightweight wrapper around the IndexedDB API. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
 
 ## Links
-[Heroku]()
+[Heroku](https://fathomless-spire-57678.herokuapp.com/)
 
 ## User Story
 AS A developer
